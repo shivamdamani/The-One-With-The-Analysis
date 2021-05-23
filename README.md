@@ -60,3 +60,45 @@ An immediate trend was the presence of the partners or ex partners of each perso
 - Ross: 'marcel', 'ben', 'carol' and 'susan' all immediately point to Ross. Another thing which was interesting to me is that Ross had the most people names in his word cloud, going in line with how he was affected more by people than others and also got into the most serious relationships.
 - Joey: 'audition', 'pheebs', 'doin', and 'tribbiani' all immediately point us to Joey. No presence of any partners name in contrast to the other five also goes in line with his character across the show. 
 
+# 3.  How positive/negative were the characters throughout the show?
+
+On average, I thought that Friends was a pretty positive show, even when characters had a rough episode, the overall atmosphere was quite positive, and no character was negative for too long. But time to back this up with data. 
+
+For this, I used calculated an AFINN score, a sentiment analysis tool. Anything over 0 is a positive score, and below 0 is negative.
+
+![sentiment analysis](https://user-images.githubusercontent.com/39181870/119231336-07e8dd00-bb3e-11eb-8ff3-23c9113d377b.jpg)
+
+In line with what I expected, the characters have episodes with the occasional negative episode, but are much more likely to have a positive episode. The magnitude of the AFINN score is also much higher when positive than negative for the characters. Plotting a moving average line over this helps to understand the general direction of the sentiment, but let's take a closer look at each character's plots.
+
+- Monica
+
+![monica sentiment analysis](https://user-images.githubusercontent.com/39181870/119233088-ea6b4180-bb44-11eb-9af6-4b77dba68fb3.jpg)
+
+- Rachel
+
+![rachel sentiment analysis](https://user-images.githubusercontent.com/39181870/119246535-03551080-bba0-11eb-9fee-6312a02868b0.jpg)
+
+- Phoebe
+
+![phoebe sentiment analysis](https://user-images.githubusercontent.com/39181870/119246538-0bad4b80-bba0-11eb-9d67-1f38a83c232b.jpg)
+
+- Chandler
+
+![chandler sentiment analysis](https://user-images.githubusercontent.com/39181870/119246566-35667280-bba0-11eb-80b4-ed762c552403.jpg)
+
+- Ross
+
+![ross sentiment analysis](https://user-images.githubusercontent.com/39181870/119246571-3bf4ea00-bba0-11eb-8306-c6df933f1e6c.jpg)
+
+- Joey
+
+![joey sentiment analysis](https://user-images.githubusercontent.com/39181870/119246575-42836180-bba0-11eb-81ad-e90b35ff5dc7.jpg)
+
+I first plotted the inflection points for the characters and then read for the plots of the episode of these points and tagged them. Some observations that I made:
+- All the characters had increasingly positive sentiments upto valentine's day in season 1.
+- On average, the peak positivity of the show happens somewhere in the middle.
+- The characters again shift to slightly less positive sentiments as the show reaches its end.
+
+
+# 4. Who were the best friends?
+
