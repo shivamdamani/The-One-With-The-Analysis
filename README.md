@@ -102,3 +102,9 @@ I first plotted the inflection points for the characters and then read for the p
 
 # 4. Who were the best friends?
 
+An interesting question would be to analyse which pair of characters were closest to each other.
+I used a different dataset for this project: https://raw.githubusercontent.com/apalbright/Friends/master/raw_data/friendsdata.csv
+This approach tried to find which two characters had plot lines that included just the pair.
+
+![2pfreq](https://user-images.githubusercontent.com/39181870/119500147-196ff600-bd85-11eb-95b5-4d1924f40862.png)
+
