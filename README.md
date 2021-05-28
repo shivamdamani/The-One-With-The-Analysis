@@ -106,5 +106,9 @@ An interesting question would be to analyse which pair of characters were closes
 I used a different dataset for this project: https://raw.githubusercontent.com/apalbright/Friends/master/raw_data/friendsdata.csv
 This approach tried to find which two characters had plot lines that included just the pair.
 
-![2pfreq](https://user-images.githubusercontent.com/39181870/119500147-196ff600-bd85-11eb-95b5-4d1924f40862.png)
+![2pfreq](https://user-images.githubusercontent.com/39181870/119944975-8b795280-bfb2-11eb-9327-ed857ec54622.jpg)
+ 
+No surprises that Ross and Rachel had the most plot lines together! However it was a little disappointing that Ross and Monica had the lowest plotlines together!
+
+The CSV files and the other code files can be found here. Doing this project gave me a different meaning to the this TV show. I hope you enjoyed reading this as much as I enjoyed making it!
 
